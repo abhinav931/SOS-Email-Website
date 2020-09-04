@@ -19,11 +19,11 @@ EMAIL_HOST_PASSWORD = 'your_password'
 
 Note :
 
-a.) Allow EMAIL_HOST_USER to allow less secure apps to send mail(gmail account), since this website is on localhost now. You won't have to allow less secure apps to access EMAIL_HOST_USER once we have SSL certificate enabled for this website.
+a.) Allow EMAIL_HOST_USER to allow less secure apps to send mail(gmail account), since this website is on localhost now. You won't have to allow less secure apps to access EMAIL_HOST_USER once SSL certificate is enabled for this website.
 
 b.) Since this website is running on local server therefore there isn't SSL certificate for this website yet.
 
-c.) Reciever's email(gmail accounts) list we've set in the code itself.
+c.) Reciever's email(gmail accounts) list is set in the code itself.
 
 ## STARTING LOCAL DEVELOPMENT SERVER
 Open command prompt
