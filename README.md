@@ -27,11 +27,11 @@ Note :
 
 ## STARTING LOCAL DEVELOPMENT SERVER
 
-1.) Open command prompt
+1. Open command prompt
 
-2.) Navigate to project folder where manage.py present
+2. Navigate to project folder where manage.py present
 
-3.) Run following command
+3. Run following command
 ```
  python manage.py runserver  
 ```
