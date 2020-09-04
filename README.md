@@ -1,14 +1,16 @@
-# TECH STACK USED
+# DJANGO WEBSITE TO SEND SOS-EMAIL IN THE FORM OF TEXT AND MEDIA
+
+## TECH STACK USED
 Django Stack: Django, python and SQLite3 as Database
 
-# INSTALLATION
+## INSTALLATION
 1. Install python for respective OS: [Click here]( https://www.python.org/downloads/)
 
 2. Install pip for respective OS: [Click here]( https://www.makeuseof.com/tag/install-pip-for-python/)
 
 3. Install Django for respective OS: [Click here](https://www.thecrazyprogrammer.com/2018/09/how-to-install-django.html)
 
-# DO CHANGES IN CODE
+## DO CHANGES IN CODE
 Navigate to project folder where settings.py present and do following changes in code (present at the end of settings.py file)
 
 Enter your email and password of gmail account from which mail has to be send
