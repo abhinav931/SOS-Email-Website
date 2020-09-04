@@ -1,5 +1,5 @@
 ## TECH STACK USED
-Django Stack: Django, python and MySQL as Database
+Django Stack: Django, python and SQLite3 as Database
 
 # INSTALLATION
 Install python for respective OS: Click here
