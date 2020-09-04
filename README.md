@@ -1,12 +1,12 @@
-## TECH STACK USED
+# TECH STACK USED
 Django Stack: Django, python and SQLite3 as Database
 
 # INSTALLATION
-Install python for respective OS: Click here
+1. Install python for respective OS: [Click here]( https://www.python.org/downloads/)
 
-Install pip for respective OS: Click here
+2. Install pip for respective OS: [Click here]( https://www.makeuseof.com/tag/install-pip-for-python/)
 
-Install Django for respective OS: Click here
+3. Install Django for respective OS: [Click here](https://www.thecrazyprogrammer.com/2018/09/how-to-install-django.html)
 
 # DO CHANGES IN CODE
 Navigate to project folder where settings.py present and do following changes in code (present at the end of settings.py file)
@@ -21,9 +21,9 @@ Note :
 
 a.) Allow EMAIL_HOST_USER to allow less secure apps to send mail(gmail account), since this website is on localhost now. You won't have to allow less secure apps to access EMAIL_HOST_USER once we have SSL certificate enabled for this website.
 
-b.) Since we're running website on local server therefore we haven't enabled SSL certificate for this website yet.
+b.) Since this website is running on local server therefore there isn't SSL certificate for this website yet.
 
-Reciever's email(gmail accounts) list we've set in the code itself. We can make an interface to enter reciever's email. We'll implement in future as per the requirements and suggestions.
+c.) Reciever's email(gmail accounts) list we've set in the code itself.
 
 ## STARTING LOCAL DEVELOPMENT SERVER
 Open command prompt
