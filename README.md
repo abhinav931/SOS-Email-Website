@@ -19,24 +19,26 @@ EMAIL_HOST_PASSWORD = 'your_password'
 
 Note :
 
-a.) Allow EMAIL_HOST_USER to allow less secure apps to send mail(gmail account), since this website is on localhost now. You won't have to allow less secure apps to access EMAIL_HOST_USER once SSL certificate is enabled for this website.
+1. Allow EMAIL_HOST_USER to allow less secure apps to send mail(gmail account), since this website is on localhost now. You won't have to allow less secure apps to access EMAIL_HOST_USER once SSL certificate is enabled for this website.
 
-b.) Since this website is running on local server therefore there isn't SSL certificate for this website yet.
+2. Since this website is running on local server therefore there isn't SSL certificate for this website yet.
 
-c.) Reciever's email(gmail accounts) list is set in the code itself.
+3. Reciever's email(gmail accounts) list is set in the code itself.
 
 ## STARTING LOCAL DEVELOPMENT SERVER
-Open command prompt
 
-Navigate to project folder where manage.py present
+1.) Open command prompt
 
-Run following command
+2.) Navigate to project folder where manage.py present
 
+3.) Run following command
+```
  python manage.py runserver  
+```
 
 ## RUN THE WEBSITE AS FOLLOWS
-Open a browser.
+1. Open a browser.
 
-Search for: 127.0.0.1:8000/enterphone
+2. Search for: 127.0.0.1:8000/enterphone
 
-You now have website running on your browser
+*You now have website running on your browser*
